@@ -1,5 +1,5 @@
 # Hi 👋, I'm Yudistira
-## A passionate Front-End Web Developer and Full Stack Web Developer
+## Front-End and Full Stack Web Developer
 
 ## Github Static
 
