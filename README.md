@@ -30,6 +30,6 @@ I'm a frontend web developer and freelancer full stack developer based in Bandun
 
 <h3 align="left">Github Statistic</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan-dia&show_icons=true&theme=algolia&locale=en&layout=compact" alt="dan-dia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yudisyudistira12&show_icons=true&theme=algolia&locale=en&layout=compact" alt="yudisyudistira12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan-dia&show_icons=true&locale=en&theme=algolia" alt="dan-dia" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yudisyudistira12&show_icons=true&locale=en&theme=algolia" alt="yudisyudistira12" /></p>
