@@ -1,4 +1,4 @@
-# Hi everyone, welcome to my Profile! 👋
+# Ciao, welcome to my Profile! 👋
 
 ## 🚀 About Me
 I'm a frontend web developer and freelancer full stack developer based in Bandung, West Java, Indonesia. Currently, I'm focused on building and maintaining website at PT. Kreasi Rekayasa Indonesia. 
@@ -11,6 +11,7 @@ I'm a frontend web developer and freelancer full stack developer based in Bandun
 * React Js
 * Git
 * Laravel
+* Livewire
 
 
 ## Other things about me
